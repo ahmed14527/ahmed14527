@@ -19,9 +19,9 @@
 
 I'm **Ahmed Shawky**, a passionate **Backend Developer** and **AI Engineer** focused on building robust, scalable server-side systems and intelligent, data-driven AI applications.
 
-- 🚀 **Backend Mastery:** Deep experience in **Django**, **Django REST Framework (DRF)**, and high-performance asynchronous APIs using **FastAPI**.
-- 🤖 **AI & Intelligent Systems:** Building Generative AI solutions, RAG pipelines, LLM integration, Vector Search, and AI agent workflows.
-- ⚡ **Architecture & Performance:** Dedicated to writing clean, maintainable code following SOLID principles, microservices/modular patterns, and database optimization.
+-  **Backend Mastery:** Deep experience in **Django**, **Django REST Framework (DRF)**, and high-performance asynchronous APIs using **FastAPI**.
+-  **AI & Intelligent Systems:** Building Generative AI solutions, RAG pipelines, LLM integration, Vector Search, and AI agent workflows.
+-  **Architecture & Performance:** Dedicated to writing clean, maintainable code following SOLID principles, microservices/modular patterns, and database optimization.
 - 🛠️ **System Design:** Constantly exploring distributed systems, scalable architectures, and efficient MLOps/DevOps practices.
 
 ---
@@ -40,7 +40,7 @@ I'm **Ahmed Shawky**, a passionate **Backend Developer** and **AI Engineer** foc
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
 </p>
 
-### 🤖 AI, Machine Learning & LLMs
+###  AI, Machine Learning & LLMs
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
@@ -51,7 +51,7 @@ I'm **Ahmed Shawky**, a passionate **Backend Developer** and **AI Engineer** foc
   <img src="https://img.shields.io/badge/Vector_DBs_(pgvector%2FChroma)-4B0082?style=for-the-badge&logo=database&logoColor=white" alt="Vector DBs"/>
 </p>
 
-### 🗄️ Databases & Caching
+###  Databases & Caching
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
@@ -59,7 +59,7 @@ I'm **Ahmed Shawky**, a passionate **Backend Developer** and **AI Engineer** foc
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
-### ☁️ DevOps, Cloud & Tools
+###  DevOps, Cloud & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
@@ -80,7 +80,7 @@ I'm **Ahmed Shawky**, a passionate **Backend Developer** and **AI Engineer** foc
 
 ---
 
-## 📊 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
   <!-- رسم مربعات الـ Contributions الأخضر المتطابق مع GitHub -->
